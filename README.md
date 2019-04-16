@@ -1,4 +1,4 @@
 # Example Repo
 ---
 
-This screen will update after I push code
+Now this is updated
